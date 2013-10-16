@@ -1,1 +1,1 @@
-Little Grails projhect demonstration.
+Little Grails project demonstration.
